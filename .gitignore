@@ -1,0 +1,6 @@
+*.pb.h
+*.pb.cc
+*.swp
+**build
+**lib
+*.o
